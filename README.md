@@ -64,6 +64,5 @@ Kullanmaya başlayın!
 
 (İsteğe bağlı: Projeyi tüm cihazlarınızdan erişilebilir yapmak için Github Pages, Netlify veya Vercel üzerinden anında ve ücretsiz bir şekilde yayınlayabilirsiniz (Deploy).)
 
-💡 Ekran Görüntüleri
 
 Bu proje kişisel üretkenliği sanatla buluşturmak için tasarlanmıştır.
